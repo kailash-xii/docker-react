@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-	        It's kailash suthar, dummy commit
+	        It's kailash suthar, dummy commit, it's part of feature branch
         </p>
         <a
           className="App-link"
